@@ -2,7 +2,6 @@
 
 **A Complete Reference Guide for C++ Implementations**
 
-*Print this document for quick reference during coding sessions*
 
 ---
 
