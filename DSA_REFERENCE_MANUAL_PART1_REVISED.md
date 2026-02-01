@@ -6,20 +6,32 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 ### Part 1: Basic Data Structures
-1. [Dynamic Array (Vector)](#1-dynamic-array-vector)
-2. [Singly Linked List](#2-singly-linked-list)
-3. [Doubly Linked List](#3-doubly-linked-list)
-4. [Stack](#4-stack)
-5. [Queue](#5-queue)
+1. Dynamic Array (Vector)
+2. Singly Linked List
+3. Doubly Linked List
+4. Stack
+5. Queue
+
+### Part 2: Tree Data Structures
+6. Binary Tree
+7. Binary Search Tree
+8. Min Heap
+9. Max Heap
+
+### Part 3: Advanced Data Structures
+10. Hash Table](#10-hash-table)
+11. Graph](#11-graph)
+12. Trie (Prefix Tree)
+13. Union-Find (Disjoint Set)
+14. Segment Tree
 
 ### Part 4: Quick Reference
-- [Complexity Cheat Sheet](#complexity-cheat-sheet)
-- [When to Use Which DS](#when-to-use-which-data-structure)
-- [Common Patterns](#common-patterns)
-
+- Complexity Cheat Sheet
+- When to Use Which DS
+- Common Patterns
 ---
 ---
 
