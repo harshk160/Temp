@@ -22,8 +22,8 @@
 9. Max Heap
 
 ### Part 3: Advanced Data Structures
-10. Hash Table](#10-hash-table)
-11. Graph](#11-graph)
+10. Hash Table
+11. Graph
 12. Trie (Prefix Tree)
 13. Union-Find (Disjoint Set)
 14. Segment Tree
